@@ -1,0 +1,2 @@
+Hanya menggunakan table messageout yang dibuat oleh tim core.
+Selebihnya adalah tampilan yg direncanakan akan terlihat.
