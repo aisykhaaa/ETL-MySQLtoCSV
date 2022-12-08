@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_wHKn8ErhEe2Fnaa_mDq_xw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_wHLPAErhEe2Fnaa_mDq_xw" comment="" name="server" prompt="server?" promptNeeded="false" type="id_String" value="103.28.52.233"/>
+  <contextParameter xmi:id="_trF00ErmEe2Fnaa_mDq_xw" comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="internship"/>
+  <contextParameter xmi:id="_-UX-AEtkEe2B2vOSls8JrA" comment="" name="port" prompt="port?" promptNeeded="false" type="id_Integer" value="10101"/>
+  <contextParameter xmi:id="_-UYlEEtkEe2B2vOSls8JrA" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="db_employee"/>
+  <contextParameter xmi:id="_-UYlEUtkEe2B2vOSls8JrA" comment="" name="authentication_db" prompt="authentication_db?" promptNeeded="false" type="id_String" value="admin"/>
+  <contextParameter xmi:id="_-UYlEktkEe2B2vOSls8JrA" comment="" name="collection1" prompt="collection1?" promptNeeded="false" type="id_String" value="employees"/>
+  <contextParameter xmi:id="_WMOckEtoEe2B2vOSls8JrA" comment="" name="collection2" prompt="collection2?" promptNeeded="false" type="id_String" value="salaries"/>
+  <contextParameter xmi:id="_WMOckUtoEe2B2vOSls8JrA" comment="" name="password" prompt="password?" promptNeeded="false" type="id_Password" value="87I1w5Ish/w5kv+airFdhQ=="/>
+</talendfile:ContextType>
